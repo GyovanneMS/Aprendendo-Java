@@ -10,9 +10,6 @@ class Mensagem{
         int idade = 2022 - anoN;
         jop.showMessageDialog(null, "Sea Bienvenido(a) " + name + ", com " +  idade + " de idade" ); //name Idade
         
-        //int AnoN = jop.showInputDialog(null,"Em que ano você nasceu?");
-        //int AnoHj = jop.showInputDialog(null, "Em que ano estamos?");
-        //
 
     }
 }
